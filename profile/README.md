@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/PDS-gbsw/.github/assets/133763382/685a0f82-ea05-4875-9ef4-5b8fba51def9"  width="120px"/>
+  <img src="https://github.com/PDS-gbsw/.github/assets/133763382/685a0f82-ea05-4875-9ef4-5b8fba51def9"  width="105px"/>
   
   ## 경북소프트웨어고등학교 학습 자료실
 </div>  <br/>
