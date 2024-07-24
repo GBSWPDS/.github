@@ -11,6 +11,6 @@
 > [!Note]
 이곳은 여러분이 가꾸는 **경북소프트웨어고 / 경북소프트웨어마이스터고 학습자료실**입니다.  
 
-- 경북소프트웨어고 / 경북소프트웨어마이스터고 학습자료실 교과 학습 자료실 [[바로가기]](https://github.com/GBSWPDS/Subject-Storage) </br> 
+- 경북소프트웨어고 / 경북소프트웨어마이스터고 교과 학습 자료실 [[바로가기]](https://github.com/GBSWPDS/Subject-Storage) </br> 
 
-- 경북소프트웨어고 / 경북소프트웨어마이스터고 학습자료실 전공 학습 자료실 [[바로가기]](https://github.com/GBSWPDS/Major-Storage)
+- 경북소프트웨어고 / 경북소프트웨어마이스터고 전공 학습 자료실 [[바로가기]](https://github.com/GBSWPDS/Major-Storage)
